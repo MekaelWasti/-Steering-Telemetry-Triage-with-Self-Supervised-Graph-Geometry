@@ -106,7 +106,7 @@ for AP and recall@100.
     - ~3× faster than sorting by raw anomaly score, and the steered queue then recovers the majority of remaining malicious sessions
     - Treated as **exploratory**
  
-![Steering Telemetry Triage Data Map Plot](artifacts/presentation/Steering Telemetry Triage Datamapplot-1.png)
+![Steering Telemetry Triage Data Map Plot](artifacts/presentation/Steering_Telemetry_Triage_Datamapplot-1.png)
 
 **STAMP Takeaway**
 
